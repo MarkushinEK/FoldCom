@@ -1,0 +1,58 @@
+body{
+    background-color: #EEEEEE;
+}
+div.maincomment{
+    min-width: 26.4em;
+    max-width: 100%;
+    background: #EEEEEE;
+    border: solid 1px #CCCCCC;
+    border-radius: 2px;
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    position: relative;
+}
+div.usercomments{
+    min-width: 26.4em;
+    max-width: 100%;
+    background: #EEEEEE;
+    border: solid 1px #CCCCCC;
+    border-radius: 2px;
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    position: relative;
+}
+div.userthreads{
+    min-width: 26.4em;
+    max-width: 100%;
+    background: #EEEEEE;
+    border: solid 1px #CCCCCC;
+    border-radius: 2px;
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    position: relative;
+}
+div.blockmessage{
+    display: inline-block;
+    min-width: 26.4em;
+    max-width: 100%;
+    background: #DDDDDD;
+    border: solid 1px #CCCCCC;
+    border-radius: 2px;
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    position: relative;
+}
+div.table{
+    background-color: #EEEEEE;
+    border-color: #D7D7D7;
+    border-style: solid;
+    border-width: 1px;
+}
+blockquote.mainmessage{
+    color: #8B0000;
+    overflow: auto;
+}
+blockquote.message{
+    overflow: auto;
+    border-color: #DDDDDD;
+}
