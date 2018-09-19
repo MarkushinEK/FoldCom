@@ -4,7 +4,7 @@
         <meta charset="UTF-8"/>
         <%@ page contentType="text/html;charset=utf-8" %>
         <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
-        <title>Forum</title>
+        <title>FoldCom</title>
         <style>
            <%@include file='css/bootstrap.css' %>
            <%@include file='css/mystyle.css' %>
